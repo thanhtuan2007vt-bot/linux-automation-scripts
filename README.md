@@ -1,2 +1,2 @@
 # linux-automation-scripts
-Automated Bash scripts for Linux system administration, XFS disk quota management, and network services configuration on CentOS/RHEL.
+Production-ready, idempotent Bash scripts for Linux system administration, automated XFS disk quota provisioning, network service deployment, and firewall hardening on RHEL/CentOS environments.
